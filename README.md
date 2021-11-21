@@ -15,3 +15,6 @@ List of activities so far:
 <li> git commit -m sit725-2021-t2-prac1 </li>
 <li> git push </li>
 <li> The rest of updates will be done via VSC command line <Ctrl + Shift + P> </li>
+<li> ..............................................</li>
+<li> Added website Why I Want to Be The BestCyberSecuritySpecialist.HTML (Task1.1)</li>
+<li> Added my own photos from my trip to Antarctica in March 2017, three of them  feature in my website </li>
