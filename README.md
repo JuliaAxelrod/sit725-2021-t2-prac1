@@ -6,20 +6,20 @@ List of activities so far
 
 ## This repo was cloned using Windows Powershell commands
 
-## git clone https://github.com/JuliaAxelrod/sit725-2021-t2-prac1.git <Enter>
+## git clone https://github.com/JuliaAxelrod/sit725-2021-t2-prac1.git
 
-## cd .\sit725-2021-t2-prac1\ <Enter>
+## cd .\sit725-2021-t2-prac1\
 
-# git remote -v <Enter>
+## git remote -v
 
-# git status was checked
+## git status was checked
 
-# new-item text.txt was created from command line and edited and saved in notepad
+## new-item text.txt was created from command line and edited and saved in notepad
 
-# git add .\text.txt <Enter>
+## git add .\text.txt
 
-# git commit -m sit725-2021-t2-prac1 <Enter>
+## git commit -m sit725-2021-t2-prac1
 
-# git push <Enter>
+## git push
 
-# The rest of updates will be done via VSC command line <Ctrl + Shift + P>
+## The rest of updates will be done via VSC command line <Ctrl + Shift + P>
