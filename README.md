@@ -4,11 +4,11 @@ SIT725 - Applied Software Engineering - P1 - Intro to Programming
 
 List of activities so far
 
-# This repo was cloned using Windows Powershell commands
+## This repo was cloned using Windows Powershell commands
 
-# git clone https://github.com/JuliaAxelrod/sit725-2021-t2-prac1.git <Enter>
+## git clone https://github.com/JuliaAxelrod/sit725-2021-t2-prac1.git <Enter>
 
-# cd .\sit725-2021-t2-prac1\ <Enter>
+## cd .\sit725-2021-t2-prac1\ <Enter>
 
 # git remote -v <Enter>
 
