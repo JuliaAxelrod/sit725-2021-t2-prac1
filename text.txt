@@ -1,0 +1,9 @@
+Hello,
+
+I am Julia Axelrod and I am attempting P1 tasks now.
+I managed to learn getting started with git from 
+https://phoenixnap.com/kb/how-to-install-git-windows
+
+My Repo is https://github.com/JuliaAxelrod/sit725-2021-t2-prac1.git
+
+Have a great day!
